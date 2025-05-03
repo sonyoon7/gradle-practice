@@ -44,3 +44,6 @@ BUILD SUCCESSFUL
 1 actionable task: 1 executed
 
 ```
+
+link to gradle init documentation: https://docs.gradle.org/8.14/samples/sample_building_kotlin_applications.html
+```
